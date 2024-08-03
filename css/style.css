@@ -1,0 +1,86 @@
+h1{
+  background-color: rgb(26, 195, 195);
+ 
+ background-image: url(https://img.freepik.com/free-photo/digital-art-moon-wallpaper_23-2150918875.jpg);
+width: 100%;
+}
+img{
+   width: 100%;
+   
+}
+
+p{
+   width: 40%;
+}
+a{
+   background-color: rgb(198, 8, 228);
+   padding: 13px;
+   border-radius: 30px;
+}
+.theforst{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-sOj4W0FN7slnRcVOFUILI7b8Mp95JaTYg&s);
+width: 500px;
+height: 400px;
+margin: auto;
+border-radius: 50px;
+background-repeat: no-repeat;
+   background-size: cover;
+   background-position-x: center;
+   width: 40%;
+    background-color: rgb(50, 50, 216);
+    /*внутриний      */
+    padding: 20px;
+     /*внутриний      */
+    border-radius: 20px;
+    border-width: 20px;
+    margin: 500px;
+    margin: 50px auto
+    borswe: 10px solid red;
+}
+.cs2{
+  background-image: url(https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Fblog%2F1696414021417.jpg&w=1920&q=75);
+  width: 500px;
+  height: 400px;px;
+  margin: auto;
+  border-radius: 50px;
+  background-repeat: no-repeat;
+   background-size: cover;
+   background-position-x: center;
+   width: 40%;
+    background-color: rgb(50, 50, 216);
+    /*внутриний      */
+    padding: 20px;
+     /*внутриний      */
+    border-radius: 20px;
+    border-width: 20px;
+    margin: 500px;
+    margin: 50px auto
+    borswe: 10px solid red;
+   
+}
+.pubg{
+  background-image: url(https://static1.pocketlintimages.com/wordpress/wp-content/uploads/144028-games-feature-pubg-image1-zkpdntqgbc.jpg);
+  width: 500px;
+  height: 400px;
+  margin: auto;
+  border-radius: 50px;
+  background-repeat: no-repeat;
+   background-size: cover;
+   background-position-x: center;
+   width: 40%;
+    background-color: rgb(50, 50, 216);
+    /*внутриний      */
+    padding: 20px;
+     /*внутриний      */
+    border-radius: 20px;
+    border-width: 20px;
+    margin: 500px;
+    margin: 50px auto
+    borswe: 10px solid red;
+  
+}
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqNtYx8yIveacYV7IIIYQ2E33ENYlHg-Upw&s);
+background-repeat: no-repeat;
+background-size: cover;
+}

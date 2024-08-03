@@ -1,0 +1,43 @@
+h1{
+  background-color: rgb(26, 195, 195);
+ 
+ background-image: url(https://img.freepik.com/free-photo/digital-art-moon-wallpaper_23-2150918875.jpg);
+width: 100%;
+}
+img{
+   width: 100%;
+   
+}
+
+p{
+   width: 40%;
+}
+a{
+   background-color: rgb(198, 8, 228);
+   padding: 13px;
+   border-radius: 30px;
+div{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-sOj4W0FN7slnRcVOFUILI7b8Mp95JaTYg&s);
+  width: 500px;
+  height: 400px;
+  margin: auto;
+  border-radius: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+     background-position-x: center;
+     width: 40%;
+      background-color: rgb(50, 50, 216);
+      /*внутриний      */
+      padding: 20px;
+       /*внутриний      */
+      border-radius: 20px;
+      border-width: 20px;
+      margin: 500px;
+      margin: 50px auto 
+    
+      }
+      body{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqNtYx8yIveacYV7IIIYQ2E33ENYlHg-Upw&s);
+      background-repeat: no-repeat;
+      background-size: cover;
+      }
